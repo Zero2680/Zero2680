@@ -28,6 +28,7 @@
 <img src="" width="400">
 </p>
 <p></p>
+</table>
 </div>
 
 <table>
@@ -39,6 +40,7 @@
 </p>
 <p></p>
 </div>
+<br>
                                                                                       
 </td>
 
