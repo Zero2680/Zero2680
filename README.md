@@ -47,6 +47,8 @@
 <img src="" width="400">
 </p>
 <p>Website to advertise different type of videogames.</p>
+</td>
+</table>
 </div>
 <br>
 
