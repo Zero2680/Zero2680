@@ -25,7 +25,7 @@
 <td width="50%">
 <h3 align="center">Ajedrez 2</h3>
 <div align="center">
-<img src="ajedrez2.jpg" width="400">
+<img src="ajedrez2.jpg" width="225">
 <p>Different type of chess with new pieces: 🔫 Sniper: kill the piece in front of him // 🧊Ice: freeze a random enemy piece for 4 turns // 🧙🏻‍♂️Wizard: exchange positions of two random pieces // ⚓Hook: attracts the piece in front of him // 💣Bomb: after 4 moves, it explodes //🛡️Shield: creates three shields that block other abilities</p>
 </table>
 </div>
@@ -35,7 +35,7 @@
 <td width="50%">
 <h3 align="center">Ping Pong Retro</h3>
 <div align="center">
-<img src="pingpong.jpg" width="400">
+<img src="pingpong.jpg" width="300">
 <p>Ping Pong videogame that gets more and more difficult. 🤖You will face two bots. ⚽The first to score ten goals wins!</p>
 </div>
                                                                                       
