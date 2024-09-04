@@ -24,7 +24,7 @@
 <td width="50%">
 <h3 align="center">Ajedrez 2</h3>
 <div align="center">
-<img src="" width="400">
+<img src="ajedrez2.jpg" width="400">
 <p>Different type of chess with new pieces: 🔫 Sniper: kill the piece in front of him // 🧊Ice: freeze a random enemy piece for 4 turns // 🧙🏻‍♂️Wizard: exchange positions of two random pieces // ⚓Hook: attracts the piece in front of him // 💣Bomb: after 4 moves, it explodes //🛡️Shield: creates three shields that block other abilities</p>
 </table>
 </div>
@@ -34,7 +34,7 @@
 <td width="50%">
 <h3 align="center">Bouncy Tomb</h3>
 <div align="center">
-<img src="" width="400">
+<img src="bouncytomb.png" width="400">
 <p>Videogame in which you have to hit the ball to break all the blocks and get out of hell. ❤️Be careful, you only have three lives!!! 👾6 levels, 2 bonus levels and 2 bosses. 😄Play and have fun. 💻Code and images by Zero2680. 🎧Music by Pixabay.</p>
 </div>
 <br>
