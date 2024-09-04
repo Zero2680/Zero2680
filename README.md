@@ -44,7 +44,7 @@
 <td width="50%">
 <h3 align="center">Tienda de Videojuegos</h3>
 <div align="center">
-<img src="" width="400">
+<img src="paginaweb.png" width="400">
 </p>
 <p>Website to advertise different type of videogames.</p>
 </td>
