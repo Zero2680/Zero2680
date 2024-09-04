@@ -15,7 +15,7 @@
 <td width="50%">
 <h3 align="center">Ping Pong Retro</h3>
 <div align="center">
-<img src="" width="400">
+<img src="https://photos.app.goo.gl/sybsmKfzJkD4Rx8V8" width="400">
 </p>
 <p></p>
 </div>
