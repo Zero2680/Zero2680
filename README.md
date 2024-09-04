@@ -13,11 +13,12 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Ping Pong Retro</h3>
+<h3 align="center">Bouncy Tomb</h3>
 <div align="center">
-<img src="pingpong.jpg" width="400">
-<p>Ping Pong videogame that gets more and more difficult. 🤖You will face two bots. ⚽The first to score ten goals wins!</p>
+<img src="bouncytomb.png" width="400">
+<p>Videogame in which you have to hit the ball to break all the blocks and get out of hell. ❤️Be careful, you only have three lives!!! 👾6 levels, 2 bonus levels and 2 bosses. 😄Play and have fun. 💻Code and images by Zero2680. 🎧Music by Pixabay.</p>
 </div>
+<br>
                                                                                       
 </td>
 
@@ -32,12 +33,11 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Bouncy Tomb</h3>
+<h3 align="center">Ping Pong Retro</h3>
 <div align="center">
-<img src="bouncytomb.png" width="400">
-<p>Videogame in which you have to hit the ball to break all the blocks and get out of hell. ❤️Be careful, you only have three lives!!! 👾6 levels, 2 bonus levels and 2 bosses. 😄Play and have fun. 💻Code and images by Zero2680. 🎧Music by Pixabay.</p>
+<img src="pingpong.jpg" width="400">
+<p>Ping Pong videogame that gets more and more difficult. 🤖You will face two bots. ⚽The first to score ten goals wins!</p>
 </div>
-<br>
                                                                                       
 </td>
 
