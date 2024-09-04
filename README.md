@@ -15,7 +15,7 @@
 <td width="50%">
 <h3 align="center">Ping Pong Retro</h3>
 <div align="center">
-<img src="https://asset.cloudinary.com/dktzng7px/1f3c579d2a360e2ee9a357c1e0e93d4e" width="400">
+<img src="[https://asset.cloudinary.com/dktzng7px/1f3c579d2a360e2ee9a357c1e0e93d4e](https://asset.cloudinary.com/dktzng7px/1f3c579d2a360e2ee9a357c1e0e93d4e)" width="400">
 </p>
 <p></p>
 </div>
