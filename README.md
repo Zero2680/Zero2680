@@ -42,11 +42,11 @@
 </td>
 
 <td width="50%">
-<h3 align="center">Tienda de Videojuegos</h3>
+<h3 align="center">Nuss</h3>
 <div align="center">
-<img src="paginaweb.png" width="400">
+<img src="nuss.png" width="400">
 </p>
-<p>Website to advertise different type of videogames.</p>
+<p>Videogame in which you must dodge attacks to defeat the different bosses: The Cloud 🌩️, The Sun ☀️, The Moon 🌙 and... The Final Boss 👽! You only have three lives so be careful! ❤️ Play and have fun! 😃 Code and images by Zero2680.</p>
 </td>
 </table>
 </div>
