@@ -36,7 +36,7 @@
 <h3 align="center">Ducky</h3>
 <div align="center">
 <img src="ducky.png" width="400">
-<p>Challenging 2D action game where you step into the feathers of a brave duck who must face waves of attacks while dodging and battling against dangerous bosses.</p>
+<p>Challenging 2D action game where you step into the feathers of a brave duck who must face waves of attacks while dodging and battling against dangerous bosses. 🏆 Will you be able to defeat the bosses and save your home, or will you fall in the attempt? </p>
 </div>
                                                                                       
 </td>
