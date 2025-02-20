@@ -35,7 +35,7 @@
 <td width="50%">
 <h3 align="center">Ducky</h3>
 <div align="center">
-<img src="pingpong.jpg" width="300">
+<img src="ducky.png" width="300">
 <p>Challenging 2D action game where you step into the feathers of a brave duck who must face waves of attacks while dodging and battling against dangerous bosses.</p>
 </div>
                                                                                       
