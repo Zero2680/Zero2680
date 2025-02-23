@@ -23,7 +23,7 @@
 </td>
 
 <td width="50%">
-<h3 align="center">Ajedrez 2</h3>
+<h3 align="center">Chess 2</h3>
 <div align="center">
 <img src="ajedrez2.jpg" width="225">
 <p>Different type of chess with new pieces: 🔫 Sniper: kill the piece in front of him // 🧊Ice: freeze a random enemy piece for 4 turns // 🧙🏻‍♂️Wizard: exchange positions of two random pieces // ⚓Hook: attracts the piece in front of him // 💣Bomb: after 4 moves, it explodes //🛡️Shield: creates three shields that block other abilities</p>
